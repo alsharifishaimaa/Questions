@@ -35,7 +35,7 @@ section>div>div h2{
     font-weight: normal;
     letter-spacing: 2px;
 }
-#btn1, #btn2, #btn3 {
+#btnplus_1, #btnplus_2, #btnplus_3{
     border: 2px solid #c59d5f;
     font-size: x-large;
     color: #c59d5f;
@@ -48,24 +48,25 @@ section>div>div p{
     border-top: 1px solid rgba(94, 84, 84, 0.438);
     color: slategrey;
 }
-#btn1:hover{
+#btnplus_1:hover{
     transform: rotate(90deg);
     transition: 0.5s;
     cursor: pointer;
 
 }
-#btn2:hover{
+ #btnplus_2:hover{
     transform: rotate(90deg);
     transition: 0.5s;
     cursor: pointer;
 
 }
-#btn3:hover{
+ #btnplus_3:hover{
     transform: rotate(90deg);
     transition: 0.5s;
     cursor: pointer;
 
 }
+
 
 
 
